@@ -66,23 +66,47 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Additional Terms for poketube
-1.Definitions
+Certainly, here's the revised text with a new section that addresses authoritarianism and the inclusion of "authoritarianism" in the Definitions section. Additionally, I've moved "Protected Characteristics" to the Definitions section as requested:
 
-"alternative code of conduct" is a code of conduct that is not Contributor Covenant Code of Conduct. 
+## Additional Terms for Poketube
 
-"free software" is defined in the GNU GPL version 3. You can see a copy on the LICENSE file.
+**TL;DR**: You are not allowed to edit or remove these terms from Poketube. You can't remove this file from your Poketube fork. Everyone can copy and share this document as is, but making changes is not allowed. If your chosen alternative code of conduct doesn't include provisions against hate speech, inappropriate behavior, anti-immigrant sentiments, far-right, far-left, or authoritarian content, it's not allowed.
 
-2.Terms 
+1. Definitions
 
-YOU MAY NOT EDIT, REMOVE, CHANGE THE TERMS OF THIS FILE. YOU MAY NOT 
-REMOVE THIS FILE FROM YOUR FORK OF POKETUBE in any way shape or form. Everyone is permitted to copy and distribute verbatim copies of this document, but changing it is not allowed. if you are using a older fork that doesnt have the Code of Conduct ( this FILE ) you dont have to accept this conduct. since poketube is free software, you can copy
-and share copys under GPL-3.0-OR-LATER. if you dont want this conduct on your fork of poketube, you can use alternative 
-conducts instead. if you dont want the alternative code of conduct, you may con
-tact us and explain why do you want to remove this file. we require this because
-of the recent polymc event. (you can search it online about this event.) we are 
-sorry if this makes us a bad software, but we just dont want troll forks of poketube
-to happen. poketube is NOT a political software, and we respect peoples opinions. 
+- **"Alternative Code of Conduct"**: This refers to a code of conduct other than the Contributor Covenant Code of Conduct.
+
+- **"Free Software"**: The definition of "free software" is in accordance with the GNU GPL version 3. You can find a complete copy of it in the LICENSE file.
+
+- **Hate Speech**: Hate speech includes any communication, whether written, spoken, or expressed in any form, that promotes discrimination, hostility, or violence against individuals or groups based on attributes such as race, ethnicity, gender, religion, or other protected characteristics.
+
+- **Inappropriate Behavior**: Inappropriate behavior encompasses actions or expressions that create an unwelcome, hostile, or offensive environment for others, such as harassment, intimidation, or bullying.
+
+- **Authoritarianism**: Authoritarianism is characterized by an emphasis on strong central authority, limited individual freedoms, and restrictions on democratic processes. Content or behavior that promotes authoritarian principles, suppresses freedom of speech, individual rights, or democratic values is strictly prohibited.
+
+- **Protected characteristics** include attributes such as race, ethnicity, gender, religion, sexual orientation, disability, and other traits or qualities safeguarded from discrimination by relevant laws and regulations. This defines what is meant by "protected characteristics" in the context of this document.
+
+2. Terms
+
+You are strictly prohibited from editing, removing, or altering the terms of this file in any way, shape, or form. Furthermore, you may not remove this file from your fork of Poketube. While everyone is allowed to make verbatim copies of this document and distribute it, modifying it is not permitted.
+
+**3. Prohibition of Anti-Immigrant and Far-Right Content**
+
+Content that promotes or glorifies anti-immigrant sentiments or far-right ideologies is strictly prohibited. This includes any content that discriminates against immigrants or supports extremist ideologies on the far-right.
+
+**4. Modification of Terms**
+
+These terms may be subject to change, and any updates will be communicated to the Poketube community. Changes to these terms will be communicated to users.
+
+
+**6. Application of GNU Kind Communication Policy**
+
+These terms also apply the principles outlined in the [GNU Kind Communication Policy](https://www.gnu.org/philosophy/kind-communication.html), which encourage respectful and inclusive communication within the Poketube community.
+
+--------------------
+We have implemented these requirements in response to the recent Polymc event (you can find information about this event online). We understand that this may raise concerns, but our intention is to prevent the proliferation of troll forks of Poketube.
+
+It is crucial to note that Poketube is not a political software, and we respect the diverse opinions and beliefs of our users.
 
 ## Enforcement Guidelines
 
